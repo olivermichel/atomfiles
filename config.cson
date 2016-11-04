@@ -1,0 +1,32 @@
+"*":
+  core:
+    themes: [
+      "native-ui",
+      "one-dark-syntax"
+    ]
+    ignoredNames: [
+      "._*",
+      ".DS_Store",
+      ".git",
+      ".hg",
+      ".svn",
+      "*.retry",
+      "recovery"
+      "Thumbs.db",
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
+    preferredLineLength: 100
+    showIndentGuide: true
+    softWrapAtPreferredLineLength: false
+  "exception-reporting":
+    userId: "63dc347a-f784-b137-2397-efe9695d0df3"
+  welcome:
+    showOnStartup: false
+  tabs:
+    alwaysShowTabBar: false
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+    squashDirectoryNames: true
